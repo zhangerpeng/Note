@@ -1,0 +1,18 @@
+@charset "UTF-8";
+@import url("https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css");
+/* defien the main container*/
+.container {
+	display: flex;
+	justify-content: center; /*defien the element how to point in the main */
+	align-items: center;
+	width: 100%;
+	height: 80rem;
+}
+.container .login-warp {
+	height:18rem;
+	width:22rem;
+}
+
+	
+	
+	

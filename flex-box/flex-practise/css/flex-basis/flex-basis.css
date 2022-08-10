@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.container {
+	display: inline-flex;
+	justify-content: space-between;
+	width: 70%;
+	height: 300px;
+	border: 2px solid black;
+	background-color: aquamarine;
+}
+
+.container .item-class{
+	height: 30%;
+    width: 20%;	
+	border: 2px solid yellow;
+	flex-basis: 100px;
+}
+
+.container .item-class_00 {
+	height: 30%;
+    width: 20%;	
+	border: 2px solid yellow;
+	width: 100px;
+}
+
